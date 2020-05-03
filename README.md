@@ -1,2 +1,2 @@
-# chess
-Making a chess game in java
+# text adventure game
+Making a game in python
